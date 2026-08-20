@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.musicvideocreator"
+    namespace = "com.bingkil.tuktuk"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.musicvideocreator"
+        applicationId = "com.bingkil.tuktuk"
         minSdk = 29
         targetSdk = 35
         versionCode = 1

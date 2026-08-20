@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Music Video Creator"
+rootProject.name = "Tuk Tuk"
 include(":app")
