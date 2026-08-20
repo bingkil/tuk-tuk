@@ -81,12 +81,6 @@ app/src/main/kotlin/com/bingkil/tuktuk/
 └── domain/                # plain data models (clip selection, recording result)
 ```
 
-## Documentation
-
-See [`docs/HANDOVER.md`](docs/HANDOVER.md) for a detailed history of design decisions,
-architecture notes, and known follow-ups — useful if you're picking up development on this
-project.
-
 ## Status
 
 Personal/hobby project, actively developed. Not published to the Play Store.
